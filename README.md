@@ -20,14 +20,15 @@ http://neuralnetworksanddeeplearning.com/
 ### Algorithm Essentials
 https://www.gitbook.com/book/soulmachine/algorithm-essentials/details
 
-### my 我的算法之路
+### 我的算法之路
 https://www.gitbook.com/book/ly_szz/https-ly_szz-gitbooks-io/details
 
 
 # Program Languages
 ## Python:
 ### Basic python:
-Liaoxuefeng's Python tutorials
+### 廖雪峰 JavaScript Python Git 教程
+https://wizardforcel.gitbooks.io/liaoxuefeng/content/
 
 ### intermediate python - 《Python进阶》是《Intermediate Python》的中文译本
 https://www.gitbook.com/book/eastlakeside/interpy-zh/details
@@ -61,7 +62,7 @@ https://www.gitbook.com/book/ljalphabeta/python-/details
 
 # Tools:
 
-### 像 IDE 一样使用 vim
+### 像 IDE 一样使用 vim --- For c/cpp
 https://www.gitbook.com/book/wizardforcel/use-vim-as-ide/details
 
 
